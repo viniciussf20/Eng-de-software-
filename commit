@@ -1,0 +1,44 @@
+1. Quais são as principais técnicas de levantamento de requisitos, e de que forma elas se diferenciam, considerando o uso de entrevistas e cenários?
+Entrevistas coletam informações diretamente dos stakeholders, enquanto cenários exploram situações hipotéticas para identificar requisitos contextuais.  
+
+2. Explique a importância da validação de requisitos no contexto do documento de arquitetura de software.**  
+Garante que os requisitos sejam claros, completos e consistentes, evitando erros e retrabalho.  
+
+3. Defina a técnica de prototipação e descreva como ela pode ser utilizada tanto para levantar quanto para validar requisitos.
+Prototipação cria representações do sistema. Serve para coletar feedback no levantamento e confirmar requisitos na validação.  
+
+4. O que é a técnica de etnografia, e como ela contribui para o levantamento de requisitos em sistemas complexos? 
+Etnografia observa usuários em seu ambiente, revelando requisitos implícitos em sistemas complexos.  
+
+5. No contexto do QFD, quais são os três tipos de requisitos, e o que cada um deles representa? 
+São os requisitos normais (desejados), esperados (essenciais) e fascinantes (surpreendentes).  
+
+6. Quais são as vantagens de realizar entrevistas formais e informais com stakeholders durante o levantamento de requisitos? 
+Entrevistas formais garantem precisão; informais promovem flexibilidade e espontaneidade.  
+
+7. Como o uso de cenários contribui para o processo de engenharia de requisitos? Quais pontos ele compartilha com os estudos de UX e UI?  
+Cenários detalham interações em contexto, ajudando a identificar necessidades, similar a UX/UI no foco no usuário.  
+
+8. Explique o conceito de caso de uso e como ele identifica as interações em um sistema.
+Casos de uso detalham ações entre usuários e o sistema para atingir objetivos específicos.  
+
+9. De que forma a técnica JAD (Joint Application Development) facilita o trabalho colaborativo durante o levantamento de requisitos?
+Promove colaboração direta entre stakeholders e desenvolvedores em workshops estruturados.  
+
+10. Diferencie entre requisitos normais, esperados e fascinantes no QFD e o que cada um deles representa em termos de expectativa do cliente.
+Normais são explícitos, esperados são básicos e fascinantes surpreendem positivamente.  
+
+11. Descreva como a combinação entre as técnicas de etnografia e prototipação pode ser aplicada no desenvolvimento de um sistema. 
+Etnografia identifica requisitos ocultos; prototipação valida soluções com os usuários.  
+
+12. Explique o conceito de “tabela da voz do cliente” no QFD e sua relevância no processo de levantamento de requisitos. 
+É um mapeamento de necessidades do cliente para requisitos, garantindo alinhamento com expectativas.  
+
+13. Em quais contextos a técnica de caso de uso pode ser menos adequada, favorecendo o uso da técnica de etnografia?
+Em sistemas com interações complexas ou implícitas, etnografia é mais eficaz do que casos de uso.  
+
+14. Quais são os quatro princípios fundamentais da técnica JAD, e qual deles é incorretamente associado a ela? 
+Os princípios incluem participação, foco, comprometimento e alinhamento. Um erro é associá-la a decisões unilaterais.  
+
+15. Como a ausência de requisitos esperados pode impactar negativamente a satisfação do cliente em um sistema de software?  
+Requisitos esperados não atendidos causam frustração, pois são considerados essenciais.
